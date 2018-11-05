@@ -1,5 +1,5 @@
 const Raiden = require('../index.js')
 
 let raiden = new Raiden("http://localhost:5001")
-let token_network = raiden.newTokenNetwork("0xc778417E063141139Fce010982780140Aa0cD5Ab")
+let token_network = raiden.newTokenNetwork("0x49ca7c2dabc2112a3d3b703493904fa96b67eec6")
 console.log(token_network);
