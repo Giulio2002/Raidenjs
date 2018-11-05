@@ -30,7 +30,7 @@ If you are new to raiden you can check [the documentation](https://raiden-networ
 raidenjs is released under the [MIT License](LICENSE).
 
 # Other Links
-	* [Documentation](https://github.com/Giulio2002/Raidenjs/wiki)
-	* [Raiden API docs](https://raiden-network.readthedocs.io/en/stable/rest_api.html)
-	* [Gitter](https://gitter.im/raiden-network/raiden)
-	* [Raiden](https://raiden.network/)
+* [Documentation](https://github.com/Giulio2002/Raidenjs/wiki)
+* [Raiden API docs](https://raiden-network.readthedocs.io/en/stable/rest_api.html)
+* [Gitter](https://gitter.im/raiden-network/raiden)
+* [Raiden](https://raiden.network/)
