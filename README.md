@@ -5,7 +5,7 @@ Raidenjs is a library written in javascript to interact with [raiden](https://gi
 ## Install
 
 ```
-npm install raidenjs
+npm install raiden-js
 ```
 
 ## Usage
@@ -13,7 +13,7 @@ npm install raidenjs
 Here we are some examples
 
 ```js
-const Raiden = require('../index.js')
+const Raiden = require('raiden-js')
 # You need first  to start your raiden node
 let raiden = new Raiden("http://localhost:5001")
 # query every registred token in the network
@@ -33,4 +33,4 @@ raidenjs is released under the [MIT License](LICENSE).
 	* [Documentation](https://github.com/Giulio2002/Raidenjs/wiki)
 	* [Raiden API docs](https://raiden-network.readthedocs.io/en/stable/rest_api.html)
 	* [Gitter](https://gitter.im/raiden-network/raiden)
-	* [Raiden](https://raiden.network/) 
+	* [Raiden](https://raiden.network/)
