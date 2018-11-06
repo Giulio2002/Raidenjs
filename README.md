@@ -5,7 +5,7 @@ Raidenjs is a library written in javascript to interact with [raiden](https://gi
 ## Install
 
 ```
-npm install raiden-js --s
+npm install raiden-js --save
 ```
 
 ## Usage
