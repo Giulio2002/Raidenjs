@@ -14,9 +14,9 @@ Here we are some examples
 
 ```js
 const Raiden = require('raiden-js')
-# You need first  to start your raiden node
+// You need first  to start your raiden node
 let raiden = new Raiden("http://localhost:5001")
-# query every registred token in the network
+// query every registred token in the network
 let tokens = raiden.getRegisteredTokens()
 console.log(tokens);
 ```
