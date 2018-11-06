@@ -1,4 +1,4 @@
-# Raidenjs
+# <img src="logo.png" width="400px">
 
 Raidenjs is a library written in javascript to interact with [raiden](https://github.com/raiden-network/raiden) node
 
