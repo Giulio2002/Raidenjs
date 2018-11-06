@@ -34,4 +34,6 @@ raidenjs is released under the [MIT License](LICENSE).
 * [Raiden API docs](https://raiden-network.readthedocs.io/en/stable/rest_api.html)
 * [Gitter](https://gitter.im/raiden-network/raiden)
 * [Raiden](https://raiden.network/)
+
+
 **Note: I am currenty working on an async version of all the methods covered, every method is temporary syncronous**
