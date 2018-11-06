@@ -1,5 +1,5 @@
 const Raiden = require('../index.js')
 
 let raiden = new Raiden("http://localhost:5001")
-let channels = raiden.getChannelsFor("0xc778417E063141139Fce010982780140Aa0cD5Ab")
+let channels = raiden.getChannelsForToken("0xc778417E063141139Fce010982780140Aa0cD5Ab")
 console.log(channels);
