@@ -4,6 +4,7 @@ const tx = {
 	value: 500,
 	token: "0xc778417E063141139Fce010982780140Aa0cD5Ab",
 }
+
 let raiden = new Raiden("http://localhost:5001")
 raiden.initPayment(tx , (value, error) => {
 	if(error) throw error.toString()
