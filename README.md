@@ -25,6 +25,22 @@ console.log(tokens);
 
 If you are new to raiden you can check [the documentation](https://raiden-network.readthedocs.io/en/stable/). if you are interested in the Raiden Project don't hesitate in asking questions in the raiden [gitter](https://gitter.im/raiden-network/raiden).
 
+If you want to include it in html, download the browserified version in the [release page](https://github.com/Giulio2002/Raidenjs/releases).
+
+```html
+<html>
+<head>
+<script src="./raiden.js"></script>
+</head>
+
+<body>
+	<script type = "text/javascript">
+		var raiden = new Raiden("localhost:5001")
+		console.log(raiden.url)
+	</script>
+</body>
+</html>
+```
 ## License
 
 raidenjs is released under the [MIT License](LICENSE).
