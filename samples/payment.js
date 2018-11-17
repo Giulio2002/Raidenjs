@@ -6,7 +6,7 @@ const tx = {
 }
 
 let raiden = new Raiden("http://localhost:5001")
-raiden.initPayment(tx , (value, error) => {
+raiden.token.initPayment(tx , (value, error) => {
 	if(error) throw error.toString()
 	console.log(value)
 })
