@@ -1,3 +1,3 @@
 // Entry point
-Raiden = require('./lib/raiden.js')
+Raiden = require('./src/raiden.js')
 module.exports = Raiden;
